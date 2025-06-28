@@ -4,7 +4,7 @@ demo:
      module: 'Clean, transform, and load data in Power BI'
 ---
 
-# Clean, transform, and load data in Power BI
+# Clean, transform, and load data in Power BI RAMSAPRA
 
 ## Apply query transformations
 
