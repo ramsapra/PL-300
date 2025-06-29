@@ -23,7 +23,6 @@ To complete this exercise, first open a web browser and enter the following URL 
 
 `https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/01-prepare-data-with-power-query-in-power-bi-desktop/01-prepare-data.zip`
 
-https://learn.microsoft.com/es-es/training/modules/power-bi-effective-reports/9-lab
 
 Extract the folder to the **C:\Users\Student\Downloads\01-prepare-data** folder.
 
