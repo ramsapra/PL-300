@@ -11,5 +11,8 @@ Este repositorio contiene los ejercicios prácticos para el curso de Microsoft [
 ## ¿Qué pasa con los cambios en el manual del estudiante?
 - Revisaremos el manual del estudiante trimestralmente y actualizaremos a través de los canales normales de publicación según sea necesario.
 
+- DAX function reference
+- https://learn.microsoft.com/en-us/dax/dax-function-reference
+
 
 
